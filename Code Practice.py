@@ -12,7 +12,6 @@ def test():
 
 test()
 
-
 def Q3(a, b, c):
     data = [a, b, c]
     for x in range(0, 2):
